@@ -22,7 +22,7 @@
 //  10
 // Explanation:
 //  10 is the largest element in the array. 
-// solution
+// solution : 
 
 funtion findLargest(arr){
   let ans = arr[0];
